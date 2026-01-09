@@ -224,14 +224,16 @@ nav .menu a {
 }
 
 /*-----------ready section--------*/
-#ready {
-    background-color: #F7F6F2;
+#ready-section{
+    background-color:#f7f2db;
     padding: 80px;
     border-radius: 12px;
 }
 
 .ready-content {
     text-align: center;
+    margin-top: 50px;
+    border-radius:10px;
 }
 
 .ready-content h2 {
