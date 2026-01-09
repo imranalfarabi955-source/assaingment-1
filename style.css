@@ -186,7 +186,6 @@ nav .menu a {
     align-items: center;
     gap: 60px;
     margin-top: 80px;
-   background-color: #000000;
 }
 
 .brain-img img {
@@ -204,7 +203,7 @@ nav .menu a {
 }
 
 .brain-content p {
-    color: #4db879;
+    color: #2e8b55;
     line-height: 20px;
     margin-bottom: 20px;
     font-weight: 700;
@@ -265,7 +264,7 @@ nav .menu a {
 }
 
 .footer-img img {
-    width: 130px;
+    max-width: 330px;
 }
 
 .footer-icon h3 {
